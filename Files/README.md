@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+جهت اجرای پروژه مراحل زیر را طی کمید
+1-لبتدا فایل ها را دانلو کنید
+2-پس از دانلود از حالت زیپ خارج کنید و وارد پوشه Files شوید
+3-در این پوشه یک ترمینال باز کنید و کامند npm install را برای نصب دیپندنسی ها اجرا کنید
+4-پس از دانلود شدن دیپندسی ها کامند yarn dev را جهت اجرای پروژه اجرا کنید و سپس با وارد کردن کامد خالی o میتوانبد پروژه را داخل مرورگر مشاهده کنید
